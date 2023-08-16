@@ -1,0 +1,52 @@
+1187  git clone https://github.com/angelrojasjim/Checkpoint-AngelRojas.git
+ 1188  touch main.js index.html
+ 1189  git add .
+ 1190  git commit -m "01 de Angel Rojas"
+ 1191  git status
+ 1192  git log
+ 1193  git push
+ 1194  git branch feature
+ 1195  git status
+ 1196  git checkout feature
+ 1197  git status
+ 1198  mkdir Hardware Software SeguridadInformatica
+ 1199  cd Hardware
+ 1200  touch resumen.txt
+ 1201  ls
+ 1202  cd ..
+ 1203  cd Software
+ 1204  touch resumen.txt
+ 1205  ls
+ 1206  cd ..
+ 1207  cd SeguridadInformatica
+ 1208  touch resumen.txt
+ 1209  ls
+ 1210  cd ..
+ 1211  ls -R
+ 1212  git status
+ 1213  git add .
+ 1214  git status
+ 1215  git commit -m "02 de Angel Rojas"
+ 1216  git push origin feature
+ 1217  git checkout main
+ 1218  ls
+ 1219  mv main.js resumenHardware.txt 
+ 1220  ls
+ 1221  mv index.html resumenSoftware.txt 
+ 1222  ls
+ 1223  vim resumenSoftware.txt
+ 1224  vim resumenSoftware.txt
+ 1225  vim resumenSoftware.txt
+ 1226  vim resumenSoftware.txt
+ 1227  vim resumenSoftware.txt
+ 1228  cat resumenSoftware.txt
+ 1229  vim resumenHardware.txt
+ 1230  cat resumenHardware.txt
+ 1231  vim resumenHardware.txt
+ 1232  cat resumenHardware.txt
+ 1233  git status
+ 1234  touch command.txt
+ 1235  ls
+ 1236  history 
+ 1237  history -h
+ 1238  history 1235
